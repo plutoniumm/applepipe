@@ -1,0 +1,7 @@
+{
+	"dependencies": {
+		"hono": "^4.4.6",
+		"node-llama-cpp": "^2.8.11",
+		"onnxruntime-node": "^1.18.0"
+	}
+}
